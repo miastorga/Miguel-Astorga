@@ -1,6 +1,6 @@
 # Miguel Astorga
 <h1 align="center">Hola 👋, soy Miguel Astorga</h1>
-<h3 align="center">Un estudiante de Analista Programador Computación, DuocUC Viña del Mar</h3>
+<h3 align="center">Estudiante de Analista Programador Computación, DuocUC Viña del Mar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miastorga&label=Profile%20views&color=0e75b6&style=flat" alt="miastorga" /> </p>
 
