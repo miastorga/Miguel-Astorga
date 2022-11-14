@@ -1,4 +1,4 @@
-# Miguel-Astorga
+# Miguel Astorga
 <h1 align="center">Hola 👋, soy Miguel Astorga</h1>
 <h3 align="center">Un estudiante de Analista Programador Computación, DuocUC Viña del Mar</h3>
 
