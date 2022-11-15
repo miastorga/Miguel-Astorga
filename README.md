@@ -9,7 +9,7 @@
 
 - 📫 Como contactarme **mastorga.leiva@gmail.com**
 
--🔰 En un futuro me gustaria aprender **C#, ASP.NET Core y Go**
+- 🔰 En un futuro me gustaria aprender **C#, ASP.NET Core y Go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
