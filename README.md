@@ -8,7 +8,7 @@
 
 - 🔰 En un futuro me gustaria aprender **C#, ASP.NET Core y Go**
 
-- 📫 Como contactarme mastorga.leiva@gmail.com **mastorga.leiva@gmail.com**
+- 📫 Como contactarme **mastorga.leiva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
