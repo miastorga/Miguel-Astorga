@@ -10,7 +10,7 @@
 
 - 📫 Como contactarme **mastorga.leiva@gmail.com**
 
-<h3 align="left">Contáctame:</h3>
+<h3 align="left">Redes Socialesr:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mastorga-leiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastorga-leiva" height="30" width="40" /></a>
 </p>
