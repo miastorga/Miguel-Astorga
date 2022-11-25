@@ -6,7 +6,7 @@
 
 - 🌱 Actualmente estoy aprendiento **ReactJs y Typescript**
 
-- 🔰 En un futuro me gustaria aprender **C#, .NET Core, Go y Dockers**
+- 🔰 En un futuro me gustaria aprender **C#, .NET Core, Go y Docker**
 
 - 📫 Como contactarme **mastorga.leiva@gmail.com**
 
