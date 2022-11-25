@@ -6,11 +6,11 @@
 
 - 🌱 Actualmente estoy aprendiento **ReactJs y Typescript**
 
-- 🔰 En un futuro me gustaria aprender **C#, ASP.NET Core y Go**
+- 🔰 En un futuro me gustaria aprender **C#, .NET Core, Go y Dockers**
 
 - 📫 Como contactarme **mastorga.leiva@gmail.com**
 
-<h3 align="left">Redes Socialesr:</h3>
+<h3 align="left">Redes Sociales:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mastorga-leiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mastorga-leiva" height="30" width="40" /></a>
 </p>
