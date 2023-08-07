@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miastorga&label=Profile%20views&color=0e75b6&style=flat" alt="miastorga" /> </p>
 
-- 🌱 Actualmente estoy aprendiento **ReactJs y Typescript**
+- 🌱 Actualmente estoy aprendiento **ReactJs, Typescript y C#**
 
-- 🔰 En un futuro me gustaria aprender **C#/ASP.NET Core Web APIs, Go y Docker**
+- 🔰 En un futuro me gustaria aprender **Go, Docker y AWS**
 
 - 📫 Como contactarme **mastorga.leiva@gmail.com**
 
