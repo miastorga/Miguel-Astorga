@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miastorga&label=Profile%20views&color=0e75b6&style=flat" alt="miastorga" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **.NET Core Web Apis**
+- 🌱 Actualmente estoy aprendiendo **.NET Web Apis**
 
 - 📫 Como contactarme: **mastorga.leiva@gmail.com**
 
